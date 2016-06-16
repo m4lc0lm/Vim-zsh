@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sudo apt-get install vim
 cp -r .vim ~/.vim
 cp .vimrc ~/.vimrc
 sudo apt-get install zsh
